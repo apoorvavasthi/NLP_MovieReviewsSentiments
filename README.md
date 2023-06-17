@@ -1,2 +1,2 @@
 # NLP_MovieReviewsSentiments
-NLP based model to classify sentiments 
+This is a NLP based model used to classify sentiments of customer reviews
